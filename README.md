@@ -14,6 +14,3 @@ You will need some initial set up with your device.
 
 1. set your app as device owner (DO NOT require root)
 2. manually set your app as Home app of the system once.
-
-Please refer to this article for details of how to do it.
-http://wenchaojiang.github.io/blog/realise-Android-kiosk-mode/
